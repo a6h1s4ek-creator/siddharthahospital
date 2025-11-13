@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hospital-logo",
+      "description": "Siddhartha Hospital Logo",
+      "imageUrl": "https://picsum.photos/seed/hospitallogo/100/100",
+      "imageHint": "medical logo"
+    },
+    {
+      "id": "user-avatar",
+      "description": "User Avatar",
+      "imageUrl": "https://picsum.photos/seed/user1/100/100",
+      "imageHint": "doctor professional"
+    },
+    {
+      "id": "patient-avatar-1",
+      "description": "Patient Avatar 1",
+      "imageUrl": "https://picsum.photos/seed/patient1/100/100",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "patient-avatar-2",
+      "description": "Patient Avatar 2",
+      "imageUrl": "https://picsum.photos/seed/patient2/100/100",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "patient-avatar-3",
+      "description": "Patient Avatar 3",
+      "imageUrl": "https://picsum.photos/seed/patient3/100/100",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "patient-avatar-4",
+      "description": "Patient Avatar 4",
+      "imageUrl": "https://picsum.photos/seed/patient4/100/100",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "patient-avatar-5",
+      "description": "Patient Avatar 5",
+      "imageUrl": "https://picsum.photos/seed/patient5/100/100",
+      "imageHint": "senior woman"
+    },
+    {
+      "id": "doctor-avatar-1",
+      "description": "Doctor Avatar 1",
+      "imageUrl": "https://picsum.photos/seed/doctor1/100/100",
+      "imageHint": "doctor professional"
+    },
+    {
+      "id": "doctor-avatar-2",
+      "description": "Doctor Avatar 2",
+      "imageUrl": "https://picsum.photos/seed/doctor2/100/100",
+      "imageHint": "female doctor"
+    },
+    {
+      "id": "login-background",
+      "description": "Abstract medical background for login screen",
+      "imageUrl": "https://picsum.photos/seed/loginbg/1920/1080",
+      "imageHint": "abstract medical"
+    }
+  ]
+}
